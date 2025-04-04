@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-char colors[3][10] = {"red", "blue", "green"};
+char colors[3][10] = {"красный", "синий", "зеленый"};
 
 for (int i = 0; i <= 3; i++)
 {
